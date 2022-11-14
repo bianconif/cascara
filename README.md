@@ -2,7 +2,7 @@
 
 ## A Collection of dAta for StatistiCAl Reporting and Analysis
 
-- Leading causes of death, United States, 2020 ([csv](data/causes-of-death-usa-2020.csv)). Source: [CDC/National Center for Health Statistics, Leading causes of death. Visited on 3-Nov-2022](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm)
+- The ten leading causes of death, United States, 2020 ([csv](data/top-10-causes-of-death-usa-2020.csv)). Source: [CDC/National Center for Health Statistics, Leading causes of death. Visited on 14-Nov-2022](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm)
 
 - GDP and structure of added value in the G7 countries ([csv](gdp-g7-2010-2020.csv)). Values are in billions of USD. Source: [World Development Indicators, The World Bank. Last Updated: 16-Sep-2022. Visited on 3-Nov-2022](http://wdi.worldbank.org/table/4.2#)
 
