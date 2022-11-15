@@ -4,6 +4,8 @@
 
 - The ten leading causes of death, United States, 2020 ([csv](data/top-10-causes-of-death-usa-2020.csv)). Source: [CDC/National Center for Health Statistics, Leading causes of death. Visited on 14-Nov-2022](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm)
 
+- The top ten US trading partners, 2017. Values are in billions USD, goods only. ([csv](data/top-10-trading-partners-usa-2017)). Source: [United States Census Bureau. Visited on 15-Nov-2022](https://www.census.gov/foreign-trade/statistics/highlights/toppartners.html).
+
 - GDP and structure of added value in the G7 countries ([csv](gdp-g7-2010-2020.csv)). Values are in billions of USD. Source: [World Development Indicators, The World Bank. Last Updated: 16-Sep-2022. Visited on 3-Nov-2022](http://wdi.worldbank.org/table/4.2#)
 
 - GDP and structure of added value in the first eight economies of the euro area (csv). Values are in billions of USD. Source: [World Development Indicators, The World Bank. Last Updated: 16-Sep-2022. Visited on 3-Nov-2022](http://wdi.worldbank.org/table/4.2#)
