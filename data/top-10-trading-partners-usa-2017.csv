@@ -1,11 +1,11 @@
-Country,Exports,Imports,Total_trade
-China,10.1,41.4,51.4
-Canada,20.7,24.3,44.9
-Mexico,19.5,23.5,43
-Japan,5,10.5,15.5
-Germany,3.9,8.8,12.7
-"Korea, South",3.4,6,9.3
-United Kingdom,3.7,4.3,8.1
-France,2.4,3.8,6.2
-Taiwan,2.2,3.4,5.6
-India,1.7,3.8,5.5
+Country,Continent,Exports,Imports,Total_trade
+China,Asia,10.1,41.4,51.4
+Canada,America,20.7,24.3,44.9
+Mexico,America,19.5,23.5,43
+Japan,Asia,5,10.5,15.5
+Germany,Europe,3.9,8.8,12.7
+South Korea,Asia,3.4,6,9.3
+United Kingdom,Europe,3.7,4.3,8.1
+France,Europe,2.4,3.8,6.2
+Taiwan,Asia,2.2,3.4,5.6
+India,Asia,1.7,3.8,5.5
