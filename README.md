@@ -2,7 +2,7 @@
 
 ## A Collection of dAta for StatistiCAl Reporting and Analysis
 
-- Age distribution in the United States, 2021 ([csv](data/age-distribution-usa-2020.csv)). Adapted from: [Demographics of the United States. Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Demographics_of_the_United_States). Visited on 18-Nov-2022. License: [CC-BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+- Age distribution in the United States, 2021 ([csv](data/age-distribution-usa-2021.csv)). Adapted from: [Demographics of the United States. Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Demographics_of_the_United_States). Visited on 18-Nov-2022. License: [CC-BY SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 - The ten leading causes of death, United States, 2020 ([csv](data/top-10-causes-of-death-usa-2020.csv)). Source: [CDC/National Center for Health Statistics, Leading causes of death.](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm). Visited on 14-Nov-2022.
 
