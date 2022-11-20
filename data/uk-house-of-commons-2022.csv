@@ -2,9 +2,6 @@ Party,Abbreviation,Seats,Colour
 Conservative,CON,356,royalblue
 Labour,LAB,196,red
 Scottish National Party,SNP,44,yellow
-Independent,IND,14,grey
 Liberal Democrat,LD,14,orange
-Democratic Unionist Party,DUP,8,navy
-Sinn Féin,SF,7,limegreen
-Others,Others,11,black
+Others,Others,40,grey
 Total,,650,
