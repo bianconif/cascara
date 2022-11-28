@@ -12,6 +12,8 @@
 
 - Exports from EU to Latin America, fourth quarter 2021 ([csv](data/exports-eu-latin-america-q4-2021.csv)). Figures are in USD and refer to declared transaction values. Source:  OECD (2022), [Quarterly International Trade Statistics (by partner country)](https://stats.oecd.org/Index.aspx?DataSetCode=TISP_EBOPS2010#) Accessed on 25-Nov-2022. License: as specified by [OECD Terms and Conditions](https://www.oecd.org/termsandconditions/)
 
+- Exports in services between the seven largest EU economies, 2020. ([csv](data/exports-in-services-by-partner-economy-EU7.csv)). Source: OECD (2022), [EBOPS 2010 - Trade in services by partner economy](https://stats.oecd.org/). Accessed on 28-Nov-2022. License: as specified by [OECD Terms and Conditions](https://www.oecd.org/termsandconditions/).
+
 - GDP and structure of added value in the G7 countries ([csv](gdp-g7-2010-2020.csv)). Values are in billions of USD. Source: [World Development Indicators, The World Bank. Last Updated: 16-Sep-2022. Visited on 3-Nov-2022](http://wdi.worldbank.org/table/4.2#)
 
 - GDP and structure of added value in the first eight economies of the euro area (csv). Values are in billions of USD. Source: [World Development Indicators, The World Bank. Last Updated: 16-Sep-2022.](http://wdi.worldbank.org/table/4.2#) Visited on 3-Nov-2022.
