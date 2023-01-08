@@ -1,199 +1,209 @@
-Country,Continent,Year,Life_expectancy
-Afghanistan,Asia,2020,65
-Albania,Europe,2020,79
-Algeria,Africa,2020,77
-Angola,Africa,2020,61
-Antigua and Barbuda,America,2020,77
-Argentina,America,2020,77
-Armenia,Asia,2020,75
-Aruba,America,2020,76
-Australia,Oceania,2020,83
-Austria,Europe,2020,81
-Azerbaijan,Asia,2020,73
-"Bahamas, The",America,2020,74
-Bahrain,Asia,2020,77
-Bangladesh,Asia,2020,73
-Barbados,America,2020,79
-Belarus,Europe,2020,74
-Belgium,Europe,2020,81
-Belize,America,2020,75
-Benin,Africa,2020,62
-Bermuda,America,2020,82
-Bhutan,Asia,2020,72
-Bolivia,America,2020,72
-Bosnia and Herzegovina,Europe,2020,78
-Botswana,Africa,2020,70
-Brazil,America,2020,76
-Brunei Darussalam,Asia,2020,76
-Bulgaria,Europe,2020,74
-Burkina Faso,Africa,2020,62
-Burundi,Africa,2020,62
-Cabo Verde,Africa,2020,73
-Cambodia,Asia,2020,70
-Cameroon,Africa,2020,60
-Canada,America,2020,82
-Cayman Islands,America,2010,82
-Central African Republic,Africa,2020,54
-Chad,Africa,2020,55
-Chile,America,2020,80
-China,Asia,2020,77
-Colombia,America,2020,77
-Comoros,Africa,2020,65
-"Congo, Dem. Rep.",Africa,2020,61
-"Congo, Rep.",Africa,2020,65
-Costa Rica,America,2020,80
-Cote d'Ivoire,Africa,2020,58
-Croatia,Europe,2020,78
-Cuba,America,2020,79
-Curacao,America,2017,78
-Cyprus,Europe,2020,81
-Czechia,Europe,2020,78
-Denmark,Europe,2020,82
-Djibouti,Africa,2020,67
-Dominica,America,2002,77
-Dominican Republic,America,2020,74
-Ecuador,America,2020,77
-"Egypt, Arab Rep.",Africa,2020,72
-El Salvador,America,2020,74
-Equatorial Guinea,Africa,2020,59
-Eritrea,Africa,2020,67
-Estonia,Europe,2020,78
-Eswatini,Africa,2020,61
-Ethiopia,Africa,2020,67
-Faroe Islands,Europe,2020,83
-Fiji,Oceania,2020,68
-Finland,Europe,2020,82
-France,Europe,2020,82
-French Polynesia,Oceania,2020,78
-Gabon,Africa,2020,67
-"Gambia, The",Africa,2020,62
-Georgia,Asia,2020,74
-Germany,Europe,2020,81
-Ghana,Africa,2020,64
-Greece,Europe,2020,81
-Greenland,America,2020,71
-Grenada,America,2020,72
-Guam,Oceania,2020,80
-Guatemala,America,2020,75
-Guinea,Africa,2020,62
-Guinea-Bissau,Africa,2020,59
-Guyana,America,2020,70
-Haiti,America,2020,64
-Honduras,America,2020,75
-Hungary,Europe,2020,76
-Iceland,Europe,2020,83
-India,Asia,2020,70
-Indonesia,Asia,2020,72
-"Iran, Islamic Rep.",Asia,2020,77
-Iraq,Asia,2020,71
-Ireland,Europe,2020,82
-Israel,Asia,2020,83
-Italy,Europe,2020,82
-Jamaica,America,2020,75
-Japan,Asia,2020,85
-Jordan,Asia,2020,75
-Kazakhstan,Asia,2020,71
-Kenya,Africa,2020,67
-Kiribati,Oceania,2020,69
-"Korea, Dem. People's Rep.",Asia,2020,72
-"Korea, Rep.",Asia,2020,83
-Kosovo,Europe,2020,71
-Kuwait,Asia,2020,76
-Kyrgyz Republic,Asia,2020,72
-Lao PDR,Asia,2020,68
-Latvia,Europe,2020,75
-Lebanon,Asia,2020,79
-Lesotho,Africa,2020,55
-Liberia,Africa,2020,64
-Libya,Africa,2020,73
-Liechtenstein,Europe,2020,82
-Lithuania,Europe,2020,75
-Luxembourg,Europe,2020,82
-Madagascar,Africa,2020,67
-Malawi,Africa,2020,65
-Malaysia,Asia,2020,76
-Maldives,Asia,2020,79
-Mali,Africa,2020,60
-Malta,Europe,2020,83
-Marshall Islands,Oceania,2000,65
-Mauritania,Africa,2020,65
-Mauritius,Africa,2020,74
-Mexico,America,2020,75
-"Micronesia, Fed. Sts.",Oceania,2020,68
-Moldova,Europe,2020,72
-Mongolia,Asia,2020,70
-Montenegro,Europe,2020,76
-Morocco,Africa,2020,77
-Mozambique,Africa,2020,61
-Myanmar,Asia,2020,67
-Namibia,Africa,2020,64
-Nepal,Asia,2020,71
-Netherlands,Europe,2020,81
-New Zealand,Oceania,2020,82
-Nicaragua,America,2020,75
-Niger,Africa,2020,63
-Nigeria,Africa,2020,55
-North Macedonia,Europe,2020,76
-Norway,Europe,2020,83
-Oman,Asia,2020,78
-Pakistan,Asia,2020,67
-Panama,America,2020,79
-Papua New Guinea,Oceania,2020,65
-Paraguay,America,2020,74
-Peru,America,2020,77
-Philippines,Asia,2020,71
-Poland,Europe,2020,77
-Portugal,Europe,2020,81
-Puerto Rico,America,2020,80
-Qatar,Asia,2020,80
-Romania,Europe,2020,74
-Russian Federation,Asia,2020,71
-Rwanda,Africa,2020,69
-Samoa,Oceania,2020,73
-Sao Tome and Principe,Africa,2020,71
-Saudi Arabia,Asia,2020,75
-Senegal,Africa,2020,68
-Serbia,Europe,2020,74
-Seychelles,Africa,2020,77
-Sierra Leone,Africa,2020,55
-Singapore,Asia,2020,84
-Slovak Republic,Europe,2020,77
-Slovenia,Europe,2020,81
-Solomon Islands,Oceania,2020,73
-Somalia,Africa,2020,58
-South Africa,Africa,2020,64
-South Sudan,Africa,2020,58
-Spain,Europe,2020,82
-Sri Lanka,Asia,2020,77
-St. Kitts and Nevis,America,2002,71
-St. Lucia,America,2020,76
-St. Vincent and the Grenadines,America,2020,73
-Sudan,Africa,2020,66
-Suriname,America,2020,72
-Sweden,Europe,2020,82
-Switzerland,Europe,2020,83
-Syrian Arab Republic,Asia,2020,74
-Tajikistan,Asia,2020,71
-Tanzania,Africa,2020,66
-Thailand,Asia,2020,77
-Timor-Leste,Oceania,2020,70
-Togo,Africa,2020,61
-Tonga,Oceania,2020,71
-Trinidad and Tobago,America,2020,74
-Tunisia,Africa,2020,77
-Turkiye,Europe,2020,78
-Turkmenistan,Asia,2020,68
-Uganda,Africa,2020,64
-Ukraine,Europe,2020,71
-United Arab Emirates,Asia,2020,78
-United Kingdom,Europe,2020,81
-United States,America,2020,77
-Uruguay,America,2020,78
-Uzbekistan,Asia,2020,72
-Vanuatu,Oceania,2020,71
-"Venezuela, RB",America,2020,72
-Vietnam,Asia,2020,75
-Virgin Islands (U.S.),America,2020,80
-"Yemen, Rep.",Asia,2020,66
-Zambia,Africa,2020,64
-Zimbabwe,Africa,2020,62
+Country,Continent,Life_expectancy
+Aruba,America,75.72
+Afghanistan,Asia,62.58
+Angola,Africa,62.26
+Albania,Europe,76.99
+United Arab Emirates,Asia,78.95
+Argentina,America,75.89
+Armenia,Asia,72.17
+Armenia,Europe,72.17
+Antigua and Barbuda,America,78.84
+Australia,Oceania,83.20
+Austria,Europe,81.19
+Azerbaijan,Asia,66.87
+Azerbaijan,Europe,66.87
+Burundi,Africa,61.57
+Belgium,Europe,80.80
+Benin,Africa,60.09
+Burkina Faso,Africa,59.73
+Bangladesh,Asia,71.97
+Bulgaria,Europe,73.61
+Bahrain,Asia,79.17
+"Bahamas, The",America,72.68
+Bosnia and Herzegovina,Europe,76.23
+Belarus,Europe,74.23
+Belize,America,72.85
+Bermuda,America,82.06
+Bolivia,America,64.47
+Brazil,America,74.01
+Barbados,America,77.39
+Brunei Darussalam,Asia,74.80
+Bhutan,Asia,71.61
+Botswana,Africa,65.65
+Central African Republic,Africa,54.60
+Canada,America,81.75
+Switzerland,Europe,83.10
+Channel Islands,Europe,81.26
+Chile,America,79.38
+China,Asia,78.08
+Cote d'Ivoire,Africa,59.03
+Cameroon,Africa,60.83
+"Congo, Dem. Rep.",Africa,59.74
+"Congo, Rep.",Africa,63.79
+Colombia,America,74.77
+Comoros,Africa,64.17
+Cabo Verde,Africa,74.81
+Costa Rica,America,79.28
+Cuba,America,77.57
+Cyprus,Europe,81.39
+Czechia,Europe,78.23
+Germany,Europe,80.94
+Djibouti,Africa,62.69
+Dominica,America,
+Denmark,Europe,81.55
+Dominican Republic,America,72.89
+Algeria,Africa,74.45
+"Egypt, Arab Rep.",Africa,70.99
+Eritrea,Africa,67.13
+Spain,Europe,82.33
+Estonia,Europe,78.35
+Ethiopia,Africa,65.37
+Finland,Europe,82.13
+Fiji,Oceania,67.92
+France,Europe,82.18
+Faroe Islands,Europe,83.09
+"Micronesia, Fed. Sts.",Oceania,70.67
+Gabon,Africa,66.53
+United Kingdom,Europe,80.90
+Georgia,Asia,72.77
+Georgia,Europe,72.77
+Ghana,Africa,64.11
+Gibraltar,Europe,82.20
+Guinea,Africa,59.33
+"Gambia, The",Africa,62.61
+Guinea-Bissau,Africa,60.00
+Equatorial Guinea,Africa,60.71
+Greece,Europe,81.09
+Grenada,America,74.92
+Greenland,America,71.40
+Guatemala,America,71.80
+Guam,Oceania,76.61
+Guyana,America,68.49
+Honduras,America,71.46
+Croatia,Europe,77.72
+Haiti,America,64.05
+Hungary,Europe,75.62
+Indonesia,Asia,68.81
+Isle of Man,Europe,80.59
+India,Asia,70.15
+Ireland,Europe,82.20
+"Iran, Islamic Rep.",Asia,74.83
+Iraq,Asia,69.12
+Iceland,Europe,83.07
+Israel,Asia,82.70
+Italy,Europe,82.34
+Jamaica,America,71.87
+Jordan,Asia,75.18
+Japan,Asia,84.62
+Kazakhstan,Asia,71.37
+Kazakhstan,Europe,71.37
+Kenya,Africa,62.68
+Kyrgyz Republic,Asia,71.80
+Cambodia,Asia,70.42
+Kiribati,Oceania,67.27
+"Korea, Rep.",Asia,83.43
+Kuwait,Asia,76.92
+Lao PDR,Asia,68.50
+Lebanon,Asia,77.80
+Liberia,Africa,60.95
+Libya,Africa,72.47
+St. Lucia,America,73.42
+Liechtenstein,Europe,81.81
+Sri Lanka,Asia,76.39
+Lesotho,Africa,54.69
+Lithuania,Europe,74.93
+Luxembourg,Europe,81.74
+Latvia,Europe,75.39
+St. Martin (French part),America,80.15
+Morocco,Africa,73.92
+Moldova,Europe,70.17
+Madagascar,Africa,65.18
+Maldives,Asia,79.88
+Mexico,America,70.13
+North Macedonia,Europe,75.69
+Mali,Africa,58.63
+Malta,Europe,82.65
+Myanmar,Asia,66.80
+Montenegro,Europe,75.93
+Mongolia,Asia,72.14
+Mozambique,Africa,61.17
+Mauritania,Africa,64.53
+Mauritius,Africa,74.18
+Malawi,Africa,63.72
+Malaysia,Asia,75.94
+Namibia,Asia,62.83
+New Caledonia,Oceania,80.83
+Niger,Africa,61.45
+Nigeria,Africa,52.89
+Nicaragua,America,71.80
+Netherlands,Europe,81.41
+Norway,Europe,83.21
+Nepal,Asia,69.25
+New Zealand,Oceania,82.06
+Oman,Asia,74.76
+Pakistan,Asia,66.27
+Panama,America,76.66
+Peru,America,73.67
+Philippines,Asia,72.12
+Papua New Guinea,Oceania,65.79
+Poland,Europe,76.60
+Puerto Rico,America,78.04
+"Korea, Dem. People's Rep.",Asia,73.27
+Portugal,Europe,80.98
+Paraguay,America,73.18
+West Bank and Gaza,Asia,74.40
+French Polynesia,Oceania,82.22
+Qatar,Asia,79.10
+Romania,Europe,74.35
+Russian Federation,Asia,71.34
+Russian Federation,Europe,71.34
+Rwanda,Africa,66.77
+Saudi Arabia,Asia,76.24
+Sudan,Africa,65.61
+Senegal,Africa,68.01
+Singapore,Asia,83.74
+Solomon Islands,Oceania,70.20
+Sierra Leone,Africa,59.76
+El Salvador,America,71.06
+Somalia,Africa,55.97
+Serbia,Europe,74.23
+South Sudan,Africa,55.48
+Sao Tome and Principe,America,67.79
+Suriname,America,72.56
+Slovak Republic,Europe,76.87
+Slovenia,Europe,80.53
+Sweden,Europe,82.41
+Eswatini,Africa,59.69
+Seychelles,Africa,77.24
+Syrian Arab Republic,Asia,72.14
+Turks and Caicos Islands,America,75.00
+Chad,Africa,52.78
+Togo,Africa,61.04
+Thailand,Asia,79.27
+Tajikistan,Asia,67.99
+Turkmenistan,Asia,68.69
+Timor-Leste,Asia,68.48
+Tonga,Oceania,70.93
+Trinidad and Tobago,America,74.41
+Tunisia,Africa,75.29
+Turkey,Asia,75.85
+Turkey,Europe,75.85
+Tuvalu,Oceania,64.38
+Tanzania,Africa,66.41
+Uganda,Africa,62.85
+Ukraine,Europe,71.19
+Uruguay,America,78.43
+United States,America,77.28
+Uzbekistan,Asia,70.33
+St. Vincent and the Grenadines,America,72.13
+"Venezuela, RB",America,71.10
+British Virgin Islands,America,75.85
+Virgin Islands (U.S.),America,79.82
+Vietnam,Asia,75.38
+Vanuatu,Oceania,70.30
+Samoa,Oceania,72.77
+Kosovo,Europe,76.57
+"Yemen, Rep.",Asia,64.65
+South Africa,Africa,65.25
+Zambia,Africa,62.38
+Zimbabwe,Africa,61.12
