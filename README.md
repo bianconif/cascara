@@ -6,7 +6,8 @@
 
 - Composition of the House of Commons, United Kingdom, 2022. ([csv](data/uk-house-of-commons-2022.csv)). Source: [UK Parliament, State of the Parties](https://members.parliament.uk/parties/Commons). Visited on 20-Nov-2022. License: [Open Parliament Licence v3.0](https://www.parliament.uk/site-information/copyright-parliament/open-parliament-licence/)
 
-- Life expectancy at birth, 2020 or latest data available (total, years [csv](data/life-expectancy-2020.csv)). Adapted from: [The World Bank, Life expectancy at birth, total (years)](https://data.worldbank.org/indicator/SP.DYN.LE00.IN). Visited on 10-Dec-2020.
+- Life expectancy at birth, 2020 or latest data available (total, years [csv](data/life-expectancy-2020.csv)). Adapted from: [The World Bank, Life expectancy at birth, total (years)](https://data.worldbank.org/indicator/SP.DYN.LE00.IN). Visited on 08-Jan-2023.
+Note: trans-continental countries like Russia, Armenia, Kazakhstan, Azerbaijan, Georgia and Turkey are considered to be parts of both Asia and Europe. Consequently, each of these countries appears twice in the list, and the two records respectively indicate Asia and Europe as the continent the country belongs to.
 
 - The ten leading causes of death, United States, 2020 ([csv](data/top-10-causes-of-death-usa-2020.csv)). Source: [CDC/National Center for Health Statistics, Leading causes of death.](https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm). Visited on 14-Nov-2022.
 
